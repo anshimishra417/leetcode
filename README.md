@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshimishra417/leetcode/tree/master/0014-longest-common-prefix) |
+| [0567-permutation-in-string](https://github.com/anshimishra417/leetcode/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/anshimishra417/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anshimishra417/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshimishra417/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/anshimishra417/leetcode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anshimishra417/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshimishra417/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshimishra417/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0567-permutation-in-string](https://github.com/anshimishra417/leetcode/tree/master/0567-permutation-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anshimishra417/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/anshimishra417/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
