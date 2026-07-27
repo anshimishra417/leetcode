@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshimishra417/leetcode/tree/master/0014-longest-common-prefix) |
 | [0567-permutation-in-string](https://github.com/anshimishra417/leetcode/tree/master/0567-permutation-in-string) |
+| [1768-merge-strings-alternately](https://github.com/anshimishra417/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anshimishra417/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshimishra417/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/anshimishra417/leetcode/tree/master/0567-permutation-in-string) |
+| [1768-merge-strings-alternately](https://github.com/anshimishra417/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
