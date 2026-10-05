@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshimishra417/leetcode/tree/master/0014-longest-common-prefix) |
 | [0567-permutation-in-string](https://github.com/anshimishra417/leetcode/tree/master/0567-permutation-in-string) |
+| [0856-score-of-parentheses](https://github.com/anshimishra417/leetcode/tree/master/0856-score-of-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anshimishra417/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/anshimishra417/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Trie
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anshimishra417/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/anshimishra417/leetcode/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/anshimishra417/leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
