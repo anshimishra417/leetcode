@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshimishra417/leetcode/tree/master/0014-longest-common-prefix) |
+| [0301-remove-invalid-parentheses](https://github.com/anshimishra417/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0567-permutation-in-string](https://github.com/anshimishra417/leetcode/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/anshimishra417/leetcode/tree/master/0856-score-of-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anshimishra417/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -102,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/anshimishra417/leetcode/tree/master/0856-score-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/anshimishra417/leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/anshimishra417/leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
