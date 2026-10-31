@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/anshimishra417/leetcode/tree/master/0724-find-pivot-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshimishra417/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/anshimishra417/leetcode/tree/master/1929-concatenation-of-array) |
+| [3665-twisted-mirror-path-count](https://github.com/anshimishra417/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/anshimishra417/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshimishra417/leetcode/tree/master/0053-maximum-subarray) |
+| [3665-twisted-mirror-path-count](https://github.com/anshimishra417/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/anshimishra417/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/anshimishra417/leetcode/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
