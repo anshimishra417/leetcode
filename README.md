@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshimishra417/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/anshimishra417/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshimishra417/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anshimishra417/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0724-find-pivot-index](https://github.com/anshimishra417/leetcode/tree/master/0724-find-pivot-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshimishra417/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/anshimishra417/leetcode/tree/master/1929-concatenation-of-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anshimishra417/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anshimishra417/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Stack
 |  |
