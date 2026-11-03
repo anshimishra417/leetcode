@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshimishra417/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/anshimishra417/leetcode/tree/master/1929-concatenation-of-array) |
 | [3665-twisted-mirror-path-count](https://github.com/anshimishra417/leetcode/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anshimishra417/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/anshimishra417/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anshimishra417/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anshimishra417/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anshimishra417/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anshimishra417/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
 |  |
 | ------- |
