@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anshimishra417/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anshimishra417/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0724-find-pivot-index](https://github.com/anshimishra417/leetcode/tree/master/0724-find-pivot-index) |
+| [1267-count-servers-that-communicate](https://github.com/anshimishra417/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshimishra417/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/anshimishra417/leetcode/tree/master/1929-concatenation-of-array) |
 | [2747-count-zero-request-servers](https://github.com/anshimishra417/leetcode/tree/master/2747-count-zero-request-servers) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/anshimishra417/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1267-count-servers-that-communicate](https://github.com/anshimishra417/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Tree
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/anshimishra417/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/anshimishra417/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -153,5 +156,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/anshimishra417/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/anshimishra417/leetcode/tree/master/3665-twisted-mirror-path-count) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/anshimishra417/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/anshimishra417/leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
